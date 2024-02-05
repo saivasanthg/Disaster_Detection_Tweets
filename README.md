@@ -24,3 +24,15 @@ METHODOLOGY
 
 -Training various models including Logistic Regression, SVM, Random Forest, and LightGBM.
 -Evaluating model performance using accuracy metrics.
+
+
+RESULTS:
+
+
+Logistic Regression Accuracy: 82.47%
+SVM Accuracy: 80.56%
+Random Forest Accuracy: 81.48%
+LightGBM Accuracy: 83.39%
+
+
+The most accurate model is LightGBM.
