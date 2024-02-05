@@ -1,4 +1,4 @@
-OVERVIEW
+OVERVIEW:
 This project aims to develop a machine learning model for the detection of disaster-related tweets. 
 The dataset, obtained from Kaggle, consists of 7613 rows and 4 columns, providing information about tweets, their content, and their associated labels.
 
